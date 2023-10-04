@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.circle{
+    background-color: rgb(15, 14, 14);
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    position: absolute;
+
+}
